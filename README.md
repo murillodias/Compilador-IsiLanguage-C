@@ -1,8 +1,10 @@
 # Integrantes
 
-Nome: Ana Julia Monici Orbetelli RA 11201810144
-Nome: Murillo Rodrigues Dias RA 11201723076
-Nome: Vinicius Sedrim RA 11201912418
+Nome: Ana Julia Monici Orbetelli - RA: 11201810144
+
+Nome: Murillo Rodrigues Dias - RA: 11201723076
+
+Nome: Vinicius Sedrim - RA: 11201912418
 
 # Projeto Compilador - Documentação
 
