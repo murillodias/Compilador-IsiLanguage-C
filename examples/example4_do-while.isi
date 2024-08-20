@@ -1,0 +1,13 @@
+programa
+declare int a, b.
+a := 1.
+b := 10.
+enquanto (a < b) {
+    escreva(a).
+    a := a + 1.
+}
+faca {
+    escreva(b).
+    b := b - 1.
+} enquanto (b > 0).
+fimprog

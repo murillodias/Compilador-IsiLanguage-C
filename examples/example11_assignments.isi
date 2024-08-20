@@ -1,0 +1,9 @@
+programa
+declare int x, y.
+x := 5.
+y := x + 10.
+escreva("Valor de x:").
+escreva(x).
+escreva("Valor de y:").
+escreva(y).
+fimprog

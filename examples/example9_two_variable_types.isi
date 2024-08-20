@@ -1,0 +1,9 @@
+programa
+declare int numero, string nome.
+numero := 10.
+nome := "Vinicius".
+escreva("O número é:").
+escreva(numero).
+escreva("O nome é:").
+escreva(nome).
+fimprog

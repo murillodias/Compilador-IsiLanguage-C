@@ -1,0 +1,7 @@
+programa
+declare int idade.
+escreva("Digite sua idade:").
+leia(idade).
+escreva("Sua idade é:").
+escreva(idade).
+fimprog

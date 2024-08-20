@@ -1,0 +1,17 @@
+programa
+declare int a, b, resultado.
+a := 15.
+b := 5.
+resultado := a + b.
+escreva("Soma:").
+escreva(resultado).
+resultado := a - b.
+escreva("Subtração:").
+escreva(resultado).
+resultado := a * b.
+escreva("Multiplicação:").
+escreva(resultado).
+resultado := a / b.
+escreva("Divisão:").
+escreva(resultado).
+fimprog

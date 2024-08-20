@@ -1,0 +1,8 @@
+programa
+declare float x, y, resultado.
+x := 10.5.
+y := 2.3.
+resultado := x + y.
+escreva("Resultado da soma:").
+escreva(resultado).
+fimprog

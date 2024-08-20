@@ -1,0 +1,13 @@
+programa
+declare int contador, limite.
+contador := 0.
+limite := 5.
+
+enquanto (contador < limite) faca {
+    escreva("Contador é:").
+    escreva(contador).
+    contador := contador + 1.
+}
+
+escreva("Fim do loop.").
+fimprog

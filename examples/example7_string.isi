@@ -1,0 +1,7 @@
+programa
+declare string nome, saudacao, completo.
+nome := "Vinicius".
+saudacao := "Olá, ".
+completo := saudacao + nome + "!".
+escreva(completo).
+fimprog

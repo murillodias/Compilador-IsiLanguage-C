@@ -1,0 +1,13 @@
+programa
+declare int a, b, c, d.
+a := 10.
+b := 5.
+se (a > b) entao {
+    c := a - b.
+    escreva("A é maior que B. Diferença:").
+} senao {
+    c := b - a.
+    escreva("B é maior ou igual a A. Diferença:").
+}
+escreva(c).
+fimprog

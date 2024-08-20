@@ -1,0 +1,12 @@
+programa
+declare int x, y, z.
+x := 5.
+escreva(x).
+
+se (x > 3) entao {
+    z := x * 2.
+    escreva(z).
+}
+
+escreva(y).
+fimprog

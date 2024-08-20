@@ -1,0 +1,6 @@
+programa
+declare int numero.
+declare int numero.  # Isto deve causar um erro de redeclaração
+numero := 10.
+escreva(numero).
+fimprog
