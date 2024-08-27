@@ -33,10 +33,10 @@ TOKENS = [
     ('STRING', r'\".*?\"'),
     ('NEWLINE', r'\n'),
     ('SKIP', r'[ \t]+'),
-    ('GREATER', r'>'),
-    ('LESS', r'<'),
     ('GREATEREQUAL', r'>='),
     ('LESSEQUAL', r'<='),
+    ('GREATER', r'>'),
+    ('LESS', r'<'),
     ('NOTEQUAL', r'!='),
     ('MISMATCH', r'.')
 ]
