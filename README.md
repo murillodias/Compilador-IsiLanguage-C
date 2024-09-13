@@ -10,6 +10,10 @@ Nome: Vinicius Sedrim - RA: 11201912418
 
 Este projeto é um compilador simples que processa um código de linguagem fictícia e gera um código C correspondente. O projeto é composto por vários módulos que juntos realizam as tarefas de análise léxica, análise sintática, análise semântica, e geração de código.
 
+# Link Apresentação - YouTube
+
+[https://www.youtube.com/watch?v=_zaBHN0V7-c](https://www.youtube.com/watch?v=_zaBHN0V7-c))
+
 ## Arquivos do Projeto
 
 ### 1. `code_generator.py`
