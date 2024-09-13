@@ -12,7 +12,7 @@ Este projeto é um compilador simples que processa um código de linguagem fict�
 
 # Link Apresentação - YouTube
 
-[https://www.youtube.com/watch?v=_zaBHN0V7-c](https://www.youtube.com/watch?v=_zaBHN0V7-c))
+[https://www.youtube.com/watch?v=_zaBHN0V7-c](https://www.youtube.com/watch?v=_zaBHN0V7-c)
 
 ## Arquivos do Projeto
 
